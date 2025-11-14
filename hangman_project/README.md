@@ -5,7 +5,8 @@
 
 ## Инструкция по запуску
 
-### На Windows:
+### На Linux:
 ```cmd
-cd ~/home/miha/Рабочий стол/hangman_project
+cd ~/'Рабочий стол'/hangman_project
 python hangman.py
+
