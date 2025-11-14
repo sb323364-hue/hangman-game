@@ -1,0 +1,26 @@
+ИСТОРИЯ РАЗРАБОТКИ ПРОЕКТА "ВИСЕЛИЦА"
+
+Коммит 1: feat: add project structure and documentation
+- Создан README.md с описанием проекта
+- Создан requirements.txt с зависимостями
+- Создан words.txt со словами для игры
+- Дата: [укажите сегодняшнюю дату]
+
+Коммит 2: feat: implement hangman game logic with class structure  
+- Реализован класс HangmanGame с базовой логикой
+- Добавлены методы: load_words(), choose_word(), make_guess()
+- Реализована проверка победы/поражения
+- Дата: [укажите сегодняшнюю дату]
+
+Коммит 3: feat: add hangman visualization and game status display
+- Добавлена визуализация виселицы (7 стадий)
+- Реализован метод display_hangman()
+- Добавлен метод get_game_status() для отображения состояния
+- Улучшен пользовательский интерфейс
+- Дата: [укажите сегодняшнюю дату]
+
+Коммит 4: docs: update README with detailed instructions
+- Добавлена история изменений в README.md
+- Уточнены инструкции по запуску
+- Добавлено описание ролей
+- Дата: [укажите сегодняшнюю дату]
